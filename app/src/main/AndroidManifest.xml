@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.qubaisy.androidiak">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logowarna"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SignUPActivity" />
+        <activity
+            android:name=".MenuAwal"
+            android:label="@string/menu_awal" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AboutUs"
+            android:label="@string/about"
+            android:parentActivityName=".MenuAwal" />
+        <activity
+            android:name=".CaraMain"
+            android:label="@string/cara_main"
+            android:parentActivityName=".MenuAwal" />
+        <activity android:name=".Tes1" />
+        <activity android:name=".Tes2" />
+        <activity android:name=".Tes3" />
+        <activity android:name=".Tes4" />
+        <activity android:name=".Tes5" />
+        <activity android:name=".Tes6" />
+        <activity android:name=".Tes7" />
+        <activity android:name=".Tes8" />
+        <activity android:name=".Tes9" />
+        <activity android:name=".Tes10" />
+        <activity android:name=".TesBonus" />
+        <activity android:name=".Score"
+            android:label="@string/score"/>
+        <activity android:name=".Penjelasan"
+            android:label="@string/penjelasan">
+        </activity>
+    </application>
+
+</manifest>

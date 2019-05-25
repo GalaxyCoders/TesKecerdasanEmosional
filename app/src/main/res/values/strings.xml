@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tes Kecerdasan Emosional</string>
+    <string name="menu_awal">Menu Awal</string>
+    <string name="emptyString"></string>
+    <string name="display_activity">Display</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="about">Tentang</string>
+    <string name="cara_main">Cara Bermain</string>
+    <string name="penjelasan">Penjelasan Nilai</string>
+    <string name="score">Score</string>
+
+    <string name="nilai1">Emosi Anda tidak mudah menjadi tenang. Untuk menyatakan sebuah maksud baik, Anda berlindung dibalik tanggapan yang “tepat”, sering memaksakan diri untuk bersikap patuh dan lembut. Bila Anda tidak dapat menghadapi emosi dengan jujur, akui saja bahwa emosi itu memang ada, walaupun sebenarnya Anda hanya dapat menirukan tanggapan yang tepat bukan mengubahnya untuk
+dapat digunakan secara konstruktif. Menekan emosi dapat menimbulkan penyakit mental dan fisik. Pendirian yang dipegang teguh secara emosional tidak benar dan sering bersifat dogmatisme moralistis.</string>
+    <string name="nilai2">Usaha keras Anda untuk menguasai emosi patut dipuji tetapi sering salah dinilai dan tidak simpatik. Anda mempertahankan diri sendiri dari emosi yang “tidak layak” dengan menirukan tanggapan yang tepat, tetapi Anda cenderung memberikan ruang “bebas” dalam kepala Anda untuk beberapa pemikiran orang lain dan hal-hal yang lebih baik dipertimbangkan, dipahami, dan diserahkan pada “bank data” emosional untuk digunakan pada kesempatan berikutnya. Cobalah membiarkan dan mengekspresikan emosi Anda. Bahkan untuk emosi yang tampaknya tidak layak (marah, takut, merasa lemah, depresi, dan sebagainya) masuk kedalam konteks yang tidak merugikan seperti ketika mendengarkan musik atau menonton film. Jajaki dan akui emosi itu. Semuanya adalah bagian dari perisai kebijaksanaan diri Anda.</string>
+    <string name="nilai3">Anda tidak mempunyai masalah dalam menerima dan menguasai emosi Anda. Anda mampu menggunakan emosi anda pada saat yang tepat sambil mengendalikan impuls yang merusak. Anda merasa nyaman dengan tanggapan alami Anda, dimana tanggapan itu berfungsi sesuai dengan tujuannya. Anda mengetahui dengan jelas bagaimana cara menyalurkan konsekuensi fisiologis yang bermanfaat agar memberikan pengaruh paling baik bagi lingkungan di sekitar Anda.</string>
+
+</resources>
